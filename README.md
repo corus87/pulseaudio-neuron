@@ -1,4 +1,4 @@
-# Gkeep
+# Pulseaudio
 Pulseaudio neuron for Kalliope
 
 ## Synopsis
