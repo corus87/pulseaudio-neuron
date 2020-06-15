@@ -2,7 +2,7 @@
 Pulseaudio neuron for Kalliope
 
 ## Synopsis
-Volume and microphone controll for pulseaudio
+Volume and microphone control for pulseaudio
 
 ## Installation
 ```bash
