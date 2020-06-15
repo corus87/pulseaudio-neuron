@@ -29,6 +29,7 @@ kalliope install --git-url https://github.com/corus87/pulseaudio-neuron
 You can use either input_device or output_device. If you don't use volume, you will get the current volume of the device you set. 
 
 To get the index for the input_device, run ```pacmd list-sources | grep -e 'name:' -e 'index:```
+
 For the output_device, run  ```pacmd list-sinks | grep -e 'name:' -e 'index:'```
 
 
